@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1IDCmQb2Xbs-jse8OrFj76lE2shEBCHaD/view?usp=drive_link](https://drive.google.com/file/d/1IDCmQb2Xbs-jse8OrFj76lE2shEBCHaD/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://github.com/raj121276thakre?tab=repositories](https://github.com/raj121276thakre?tab=repositories)
 
 - 💬 Ask me about **Kotlin, Xml , firebase**
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/raj-thakre-3615a9222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-thakre-3615a9222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj121276thakre&show_icons=true&locale=en" alt="raj121276thakre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj121276thakre&" alt="raj121276thakre" /></p>
-
