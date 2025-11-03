@@ -15,7 +15,7 @@
 
 - 📫 Reach me at: **raj121276thakre@gmail.com**
 
-- 📄 View my resume: Raj Thakre -[Resume](https://drive.google.com/file/d/1IDCmQb2Xbs-jse8OrFj76lE2shEBCHaD/view?usp=drive_link)
+- 📄 View my resume: Raj Thakre -[Resume](https://drive.google.com/file/d/1hb6vJc2l_96JR2Kgfz1LtWhPz8l1kxDm/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
